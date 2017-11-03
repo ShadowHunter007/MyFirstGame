@@ -45,6 +45,7 @@ public class PlayerMovement : MonoBehaviour {
             Flip();
         else if(move < 0 && facingRight)
             Flip();
+        //test
     }
 
     void Update()
